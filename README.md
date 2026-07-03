@@ -90,7 +90,7 @@ https://llenroctech.com
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/company/llenroc-tech-llc
+https://www.linkedin.com/company/llenroc-tech/
 
 ---
 
