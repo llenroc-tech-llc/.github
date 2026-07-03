@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/llenroc-tech-banner.png" alt="Llenroc Tech LLC Banner" width="100%">
+</p>
+
 # Llenroc Tech LLC
 
 ### Veteran-Owned Enterprise Software Consulting
