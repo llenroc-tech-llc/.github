@@ -8,6 +8,12 @@
 
 Building modern, scalable, and secure enterprise software with Java, Spring Boot, Angular, GraphQL, Cloud, and AI.
 
+# Llenroc Tech LLC
+
+### Veteran-Owned Enterprise Software Consulting
+
+Building modern, scalable, and secure enterprise software with Java, Spring Boot, Angular, GraphQL, Cloud, and AI.
+
 ---
 
 ## About Llenroc Tech
