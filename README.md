@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="./assets/llenroc-tech-banner.png" alt="Llenroc Tech LLC Banner" width="100%">
+  <img src="assets/llenroc-tech-banner.png" alt="Llenroc Tech Banner" width="100%">
 </p>
 
 # Llenroc Tech LLC
 
 ### Veteran-Owned Enterprise Software Consulting
 
-Building modern, scalable, and secure enterprise software with Java, Spring Boot, Angular, GraphQL, Cloud, and AI.
+Building modern, scalable, and secure enterprise software using proven engineering practices.
 
 ---
 
 ## About Llenroc Tech
 
-Llenroc Tech LLC is a veteran-owned software consulting company focused on designing, developing, and modernizing enterprise applications. We help organizations deliver secure, scalable, and cloud-ready software using modern engineering practices.
+Llenroc Tech LLC is a veteran-owned software consulting company specializing in enterprise application development, cloud-native architecture, application modernization, and AI-powered software solutions.
+
+Our mission is to help organizations build reliable, maintainable, and scalable software while demonstrating engineering excellence through real-world projects.
 
 ---
 
@@ -20,41 +22,29 @@ Llenroc Tech LLC is a veteran-owned software consulting company focused on desig
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" title="Java"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" title="Spring Boot"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" title="Angular"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" title="GraphQL"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" title="PostgreSQL"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" title="Docker"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" title="GitHub"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" title="GitHub Actions"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" title="AWS"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" title="Azure"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55"/>
 
 </p>
 
 ---
 
-# Current Focus
+# Engineering Portfolio
 
-- Enterprise Full-Stack Development
-- Angular + Spring Boot + GraphQL
-- Cloud-Native Applications
-- GitHub Actions CI/CD
-- AI Engineering
-- Application Modernization
-
----
-
-# Portfolio Roadmap
-
-| Project | Description | Status |
-|----------|-------------|:------:|
-| Enterprise Full-Stack Application | Angular + Spring Boot + GraphQL | 🚧 In Progress |
-| GitHub Actions CI/CD | Enterprise build, test & deployment pipeline | 📋 Planned |
-| AI Chat Application | AI-powered enterprise application | 📋 Planned |
-| AI Engineering & Agents | Intelligent automation & coding agents | 📋 Planned |
-| Llenroc Tech Website | Company website & deployment | 🚧 In Progress |
+| Repository | Purpose | Status |
+|------------|---------|--------|
+| **enterprise-customer-platform** | Enterprise Angular + Spring Boot application | 🚧 In Progress |
+| **enterprise-ci-cd** | GitHub Actions, Docker, CI/CD pipelines | 📋 Planned |
+| **enterprise-ai-platform** | AI-powered enterprise applications | 📋 Planned |
+| **engineering-agents** | AI coding and automation agents | 📋 Planned |
+| **llenroctech-com** | Official company website | 🚧 In Progress |
 
 ---
 
@@ -64,32 +54,35 @@ Llenroc Tech LLC is a veteran-owned software consulting company focused on desig
 - Full-Stack Development
 - REST APIs
 - GraphQL APIs
+- Cloud-Native Applications
 - Application Modernization
-- Cloud Migration
 - CI/CD Automation
-- AI-Powered Business Solutions
+- Secure Software Development
+- AI Engineering Solutions
 
 ---
 
-# Why Llenroc Tech
+# Current Roadmap
 
-- Veteran-Owned Business
-- Enterprise Engineering Experience
-- Modern Software Architecture
-- Cloud-Ready Solutions
-- Secure Development Practices
-- Continuous Integration & Deployment
+- [x] GitHub Organization
+- [x] Company Branding
+- [x] Engineering Roadmap
+- [x] Repository Structure
+- [ ] Enterprise Customer Platform
+- [ ] GitHub Actions Pipeline
+- [ ] AI Platform
+- [ ] Engineering Agents
+- [ ] Company Website
+- [ ] Live Portfolio
 
 ---
 
 # Connect
 
-🌐 **Website**
-
+🌐 **Website**  
 https://llenroctech.com
 
-💼 **LinkedIn**
-
+💼 **LinkedIn**  
 https://www.linkedin.com/company/llenroc-tech/
 
 ---
